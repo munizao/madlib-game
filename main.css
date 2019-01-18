@@ -1,0 +1,18 @@
+h1 {
+    color: darkslateblue;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label {
+    padding: 5px;
+    display: block;
+}
+
+button {
+    color:white;
+    background: forestgreen;
+    padding: 5px;
+}
